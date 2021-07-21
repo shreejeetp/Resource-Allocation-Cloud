@@ -1,4 +1,4 @@
-# MTech-project
+# Resource Allocation in Cloud Environment
 Minimizes the energy consumption in a Cloud Enviornment by optimizing the allocation of Containers to Vms, and Vms to Pms.
 
 ## How to run
